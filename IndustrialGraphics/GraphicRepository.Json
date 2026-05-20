@@ -2,7 +2,7 @@
   "CDIVersion": "6150.0474.1974.1",
   "IASVersion": "20.1.10000",
   "ApplicationName": "IndustrialGraphics",
-  "DBChangeLog": 25,
+  "DBChangeLog": 26,
   "UniqueToolsetId": 214748,
   "UniqueSymbolId": 217,
   "IncludeAllGraphics": true,
